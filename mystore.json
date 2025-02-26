@@ -1,0 +1,13 @@
+{
+  "games": {
+    "game1": {
+      "apk_url": "https://example.com/apks/game1.apk"
+    },
+    "game2": {
+      "apk_url": "https://example.com/apks/game2.apk"
+    },
+    "game3": {
+      "apk_url": "https://example.com/apks/game3.apk"
+    }
+  }
+}
