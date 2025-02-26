@@ -3,12 +3,14 @@
         "name": "Aviator Tool",
         "price": "₹1990.00",
         "duration": "1 week",
-        "imageUrl": "https://example.com/game1.jpg"
+        "id": "aviator_1",
+        "image_url": "https://example.com/aviator1.png"
     },
     {
-        "name": "Super Racer",
-        "price": "₹2500.00",
+        "name": "Aviator Tool",
+        "price": "₹3800.00",
         "duration": "2 weeks",
-        "imageUrl": "https://example.com/game2.jpg"
+        "id": "aviator_2",
+        "image_url": "https://example.com/aviator2.png"
     }
 ]
