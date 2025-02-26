@@ -1,13 +1,14 @@
-{
-  "games": {
-    "game1": {
-      "apk_url": "https://example.com/apks/game1.apk"
+[
+    {
+        "name": "Aviator Tool",
+        "price": "₹1990.00",
+        "duration": "1 week",
+        "imageUrl": "https://example.com/game1.jpg"
     },
-    "game2": {
-      "apk_url": "https://example.com/apks/game2.apk"
-    },
-    "game3": {
-      "apk_url": "https://example.com/apks/game3.apk"
+    {
+        "name": "Super Racer",
+        "price": "₹2500.00",
+        "duration": "2 weeks",
+        "imageUrl": "https://example.com/game2.jpg"
     }
-  }
-}
+]
